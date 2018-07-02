@@ -1,0 +1,10 @@
+.ejemplo {
+	width: 200px;
+	height: 200px;
+	background: red;
+	cursor: url(cursor.png), pointer;
+}
+
+a {
+	cursor: url(cursor.png), pointer;
+}
